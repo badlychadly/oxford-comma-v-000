@@ -20,5 +20,5 @@ def oxford_comma(array)
     array[-1].insert(0, "and ")
     binding.pry
   end
-  array.join(", ")
+  array.join(", ")    
 end
